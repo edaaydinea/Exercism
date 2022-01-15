@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://exercism.org/profiles/edaaydinea">
-        <img alt="Exercism Logo | Eda AYDIN Profile" src="https://angelika.me/elixir-conf-eu-2021/assets/exercism-logo-with-word.svg", width = 350 >
+        <img alt="Exercism Logo | Eda AYDIN Profile" src="https://angelika.me/elixir-conf-eu-2021/assets/exercism-logo-with-word.svg", width = 450 >
     </a>
 </p>
 
