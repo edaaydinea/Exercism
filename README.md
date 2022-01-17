@@ -6,7 +6,7 @@
 
 # Exercism | Practice, Tutorials & Interview Preparation Solutions
 
-This repository consists of solutions to Exercism **practice**, **tutorials**, and **interview preparation** problems with **Python**, **mySQL**, **C++**, and **Java**.
+This repository consists of solutions to Exercism **practice**, **tutorials**, and **interview preparation** problems with **Python**, **SQL**, **C++**, and **Java**.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/edaaydinea/Exercism)](https://github.com/edaaydinea/Exercism/commits/master)
 [![GitHub repo size](https://img.shields.io/github/repo-size/edaaydinea/Exercism)](https://github.com/edaaydinea/Exercism/archive/master.zip)
